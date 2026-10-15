@@ -3,6 +3,13 @@ export const portfolio = {
   name: 'Carlos Rivas',
   initials: 'cr',
   role: 'Software Engineer',
+  portrait: {
+    src: 'carlos-rivas-1200.jpg',
+    smallSrc: 'carlos-rivas-640.jpg',
+    alt: 'Carlos Rivas outdoors, wearing a dark shirt',
+    width: 1200,
+    height: 800,
+  },
   location: 'Santiago, Chile',
   email: 'ridge.cirque6293@eagereverest.com',
   // GitHub account comes from this repository's origin; LinkedIn and email come from the CV.
